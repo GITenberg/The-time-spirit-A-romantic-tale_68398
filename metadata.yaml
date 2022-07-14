@@ -1,0 +1,40 @@
+_repo: The-time-spirit-A-romantic-tale_68398
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snaith, J. C. (John Collis)
+    alias: Snaith, John Collis
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '37216'
+    url: http://www.gutenberg.org/2009/agents/37216
+    wikipedia: https://en.wikipedia.org/wiki/John_Snaith
+description: 'Also published under other titles: "Mary Plantagenet: An improbable
+  story," and "The crime of Constable Kelly."'
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68398'
+  lccn: '18012219'
+language: en
+pgterms:marc904: https://archive.org/details/timespiritromant00snaiiala
+pgterms:marc905: 20181211180112snaith
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United States :D. Appleton and Company,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Adopted children -- Fiction'
+- GITenberg
+title: 'The time spirit: A romantic tale'
+url: http://www.gutenberg.org/ebooks/68398
