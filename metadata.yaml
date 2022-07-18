@@ -1,5 +1,8 @@
 _repo: The-time-spirit-A-romantic-tale_68398
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68398-h/images/cover.jpg
 creator:
   author:
     agent_name: Snaith, J. C. (John Collis)
@@ -11,6 +14,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/John_Snaith
 description: 'Also published under other titles: "Mary Plantagenet: An improbable
   story," and "The crime of Constable Kelly."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68398#The-time-spirit-A-romantic-tale
 gutenberg_issued: '2022-06-25'
 identifiers:
   gutenberg: '68398'
